@@ -28,9 +28,9 @@
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=yuhaojiangcloud&abbreviated=true&color=yellow" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
