@@ -23,13 +23,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhaojiangcloud&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
  
 <!-- https://github.com/badges/shields -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins,mysql,openstack,prometheus,ubuntu" />
   </a>
 </p>
  
